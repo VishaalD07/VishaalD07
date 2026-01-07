@@ -19,15 +19,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishaalD07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VishaalD07&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalD07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VishaalD07&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=VishaalD07&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!---
 VishaalD07/VishaalD07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
