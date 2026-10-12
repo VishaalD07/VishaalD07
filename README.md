@@ -14,7 +14,6 @@
   <a href="https://vishaald07.github.io/Vishaal_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vishaal-dayashanker-68489831a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vishaalshanker@gmail.com"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://vishaald07.github.io/Vishaal_Portfolio/Vishaal_Dayashanker_Resume.pdf"><img src="https://img.shields.io/badge/Resume-22D3EE?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=VishaalD07&color=8B5CF6&style=for-the-badge&label=Profile+views" />
 </p>
 
