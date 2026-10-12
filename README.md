@@ -82,7 +82,3 @@ class Vishaal:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishaalD07&bg_color=0D1124&color=c9d1d9&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true" />
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:8B5CF6,100:22D3EE&height=110&section=footer" width="100%"/>
-</p>
