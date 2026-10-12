@@ -1,66 +1,96 @@
-### 👋 Hi, I'm Vishaal Dayashanker
+<!-- Animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:F472B6&height=200&section=header&text=Vishaal%20Dayashanker&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-- 🎓 MS Computer Science student at the University of Illinois Chicago (4.0 GPA), building on a B.Tech in CS & Engineering (AI & Robotics)
-- 🤖 I build **agentic AI systems, RAG pipelines, and full-stack applications** — most recently architecting a mobile app's AI-powered data layer and a multi-module medical document intelligence pipeline with MCP integrations
-- 📚 Co-authored **4 peer-reviewed papers** applying deep learning and statistical methods to medical imaging, obesity risk, and energy forecasting
-- 🌱 Currently exploring agent orchestration frameworks, retrieval evaluation, and applied AI/ML research
-- 📫 Reach me at vishaalshanker@gmail.com
-- 🌐 [Portfolio](https://vishaald07.github.io/Vishaal_Portfolio/) · [LinkedIn](https://www.linkedin.com/in/vishaal-dayashanker-68489831a)
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://vishaald07.github.io/Vishaal_Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+agentic+AI+systems+%F0%9F%A4%96;RAG+pipelines+%26+vector+databases+%F0%9F%93%9A;M.S.+CS+%40+UIC+%E2%80%94+4.0+GPA+%F0%9F%8E%93;Open+to+full-time+roles+in+2027+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://vishaald07.github.io/Vishaal_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishaal-dayashanker-68489831a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vishaalshanker@gmail.com"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://vishaald07.github.io/Vishaal_Portfolio/Vishaal_Dayashanker_Resume.pdf"><img src="https://img.shields.io/badge/Resume-22D3EE?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=VishaalD07&color=8B5CF6&style=for-the-badge&label=Profile+views" />
+</p>
 
 ---
 
-### 💻 Tech Stack
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
-**Languages**
+```python
+class Vishaal:
+    location   = "Chicago, IL"
+    education  = ["M.S. Computer Science @ UIC (4.0 GPA, May 2027)",
+                  "B.Tech CSE — AI & Robotics @ VIT Chennai"]
+    now        = "TA & Project Coordinator @ UIC — 5 client-sponsored projects"
+    recently   = ["AI/ML Intern @ Mphasis — LLM task extraction service",
+                  "Software Dev Intern @ SolidPro — production RAG for Lawly AI"]
+    research   = "1 paper in Scientific Reports (Nature Portfolio) + 3 under review"
+    exploring  = ["agent orchestration", "retrieval evaluation", "vector databases"]
+    status     = "Open to AI/ML, Data & SWE roles — 2027 🚀"
+```
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+---
 
-**AI, ML & Agentic Systems**
+### 🛠️ Featured projects
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| 🩺 [**MedAgent**](https://github.com/VishaalD07/MedAgent-An-End-to-End-Medical-Document-Intelligence-System) | Five-module agent that reads medical docs, simplifies them, and acts via Calendar, Gmail & Slack | BioBERT · Llama 3.3 · MCP |
+| 🛰️ [**Open-Vocab Detection**](https://github.com/VishaalD07/ov-prompt-to-mask) | +177% mAP on aerial imagery by fine-tuning YOLO World on VisDrone | YOLO World · PyTorch |
+| 📡 [**Misinformation Analysis**](https://github.com/VishaalD07/YouTube-Misinformation-Analysis) | Pipelines over 5.9M+ comments & 440K+ videos to detect coordinated narratives | Python · Pandas · Stats |
+| 🧭 **Job Application Agent** | Scrapes LinkedIn, ranks jobs against my resume, writes tailored resumes & cover letters | Hermes · Claude API · Telegram |
+| 🚁 [**Crowd-Monitoring Drone**](https://github.com/VishaalD07/Anti-Riot-Drone-Project) | DIY quadcopter with CV crowd-density estimation and PID flight control | OpenCV · PID |
 
-**Web & API Development**
+---
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+### 💻 Tech stack
 
-**Data & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,r&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,react,fastapi,django,flask,nodejs&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,aws,azure,linux,git,github&perline=9" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Weaviate-00C29A?style=flat-square&logo=weaviate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
 
-**Tools, Cloud & DevOps**
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
+### 📊 GitHub stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishaalD07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1124&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalD07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1124&title_color=8B5CF6&text_color=c9d1d9" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VishaalD07&theme=tokyonight&hide_border=true&background=0D1124&ring=8B5CF6&fire=F472B6&currStreakLabel=22D3EE" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishaalD07&bg_color=0D1124&color=c9d1d9&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true" />
+</p>
 
+<!-- Snake animation: generated daily by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishaalD07/VishaalD07/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/VishaalD07/VishaalD07/output/github-snake.svg" />
+  </picture>
+</p>
 
-<!---
-VishaalD07/VishaalD07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:8B5CF6,100:22D3EE&height=110&section=footer" width="100%"/>
+</p>
